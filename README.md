@@ -14,7 +14,7 @@ This GitHub repository houses a Weather App developed with React Vite, Tailwind 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/kisnak21/weather-app.git
    ```
 
 2. **Navigate to the Project Directory:**
